@@ -14,3 +14,8 @@ js 中现在比较成熟的有四种模块加载方案。
 补充一下他们的区别：
 AMD和CMD都是浏览器端的JS模块化规范，分别由require.js和sea.js实现
 CommonJS是服务器端的js模块化规范，由NodeJS实现
+
+- Redux遵循的原则：
+（1）单一数据源：整个应用的state被存储在一棵object tree中，并且这个object tree只存在于唯一一个store中；
+（2）state是只读的：唯一改变state的方法就是触发action，action是一个用于描述发生事件的普通对象；
+（3）使用纯函数修改数据；
