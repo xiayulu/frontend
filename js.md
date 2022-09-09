@@ -19,3 +19,6 @@ CommonJS是服务器端的js模块化规范，由NodeJS实现
 （1）单一数据源：整个应用的state被存储在一棵object tree中，并且这个object tree只存在于唯一一个store中；
 （2）state是只读的：唯一改变state的方法就是触发action，action是一个用于描述发生事件的普通对象；
 （3）使用纯函数修改数据；
+
+- 理解 this
+1.函数调用时，指向window 2.以方法调用时，指向调用该方法的对象 3.使用new创建一个对象时，指向该对象 4.call,apply ,bind可以改变this指向 区别，传参不同
