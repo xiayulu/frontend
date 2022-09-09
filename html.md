@@ -1,0 +1,1 @@
+- html5 新特性：新特性：1.语义化标签     2.增强型表单包括属性以及元素    3.新增视频<video>和音频<audio>标签    4.Canvas 图形    5.地理定位    6.拖放API    7.SVG绘图    8.Web Worker    9.Web Storage    10.Web Socket
