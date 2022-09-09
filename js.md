@@ -1,0 +1,4 @@
+- 常见的正则表达式
+- 事件冒泡：依次向内捕获，然后向外冒泡。[例题](https://www.nowcoder.com/questionTerminal/c018564977104c53a094025e9fb92d83)
+- cookie与localStorage [练习](https://www.nowcoder.com/questionTerminal/96977c22b17a456d9131a6abd7722cf1)
+- 作用域与 setTimeout [练习]()
